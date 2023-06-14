@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+docs: update view-results-in-terminal.md (#66)
