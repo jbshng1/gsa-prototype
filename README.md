@@ -1,1 +1,1 @@
-Update neural-magic.md (#7347)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
